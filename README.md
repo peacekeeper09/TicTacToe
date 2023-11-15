@@ -3,7 +3,9 @@ This project is a simple implementation of a Tic Tac Toe game using the Tkinter 
 
 # Working
 
-https://github.com/PRATIKK0709/TicTacToe/assets/139443204/1feeadda-dac2-4aca-9778-a99e8592574d
+
+https://github.com/PRATIKK0709/TicTacToe/assets/139443204/90abe027-88cd-41c2-859c-2559ec3e0495
+
 
 
 
